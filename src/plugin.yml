@@ -1,0 +1,4 @@
+name: RailBugFix
+main: net.meano.RailBugFix.RailBugFixMain
+version: 0.1
+author: Meano
